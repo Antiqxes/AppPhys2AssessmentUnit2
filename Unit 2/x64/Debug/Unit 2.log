@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\iAcademy\EMC 21\AppPhys2\VSProjects\Assessment\Unit 2\Unit 2\Unit 2\Headers\JGL.h(47,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Unit 2.vcxproj -> D:\iAcademy\EMC 21\AppPhys2\VSProjects\Assessment\Unit 2\Unit 2\x64\Debug\Unit 2.exe
